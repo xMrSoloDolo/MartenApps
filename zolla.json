@@ -83,9 +83,9 @@
 		"extraButton1Active": false,
 		"extraButton1Title": "GET FREE GIFT CARD",
 		"extraButton1Url": "https://giftcardway.com/",
-		"extraButton2Active": false,
-		"extraButton2Title": "Extra 2",
-		"extraButton2Url": "https://www",
+		"extraButton2Active": true,
+		"extraButton2Title": "ZOLLA FREE 100$ CARD",
+		"extraButton2Url": "https://giftcardway.com/",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
