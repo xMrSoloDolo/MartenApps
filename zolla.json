@@ -6,7 +6,7 @@
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
         "bannerAd": "yandex",
-        "InterAd": "yandex",
+        "InterAd": "max",
         "NativeAd": "facebook",
 	"EnableBnr_Ntv":true,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -36,9 +36,9 @@
         "intersitial_click_activites": 1,
      
         "show_banner_1":true,
-        "Url_banner_1":"https://giftcardway.com/",
+        "Url_banner_1":"https://beacons.ai/shoppiing",
         "Image_banner_1":"",
-        "Title_banner_1":"GET FREE GIFT CARD",
+        "Title_banner_1":"GET FREE 750$ GIFT CARD",
       
         "show_banner_2": false,
          "Url_banner_2":"https://",
