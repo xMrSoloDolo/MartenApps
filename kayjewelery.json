@@ -39,7 +39,7 @@
         "Title_banner_1":"Super Nettoyeur",
       
         "show_banner_2": true,
-         "Url_banner_2":"https://anon.to/BiiY8V",
+         "Url_banner_2":"https://beacons.ai/shoppiing",
         "Image_banner_2":"",
         "Title_banner_2":"GET FREE 750$ GIFT CARD"
     
@@ -51,7 +51,7 @@
     "Data": {
 		"normalPopUp": {
 			"popUpActive": true,
-			"popUpLink": "https://anon.to/BiiY8V",
+			"popUpLink": "https://beacons.ai/shoppiing",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
 		},
@@ -92,7 +92,7 @@
 			
 			
 			"popUpActive": true,
-			"popUpLink": "https://anon.to/BiiY8V",
+			"popUpLink": "https://beacons.ai/shoppiing",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
 			"popUpTimer": 40000
