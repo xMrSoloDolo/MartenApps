@@ -61,7 +61,7 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": false,
+		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -88,7 +88,7 @@
 		"extraButton2Url": "https://giftcardway.com/",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://zolla.com/",
 			
 			
