@@ -16,7 +16,7 @@
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
         "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
         "max_banner": "",
-        "max_inter": "bd3c347cf66bddff",
+        "max_inter": "89e3381e4b415a87",
         "max_native": "",
 		"ironsource_api": "1011dee21",
 		"App_id_pangle":"8068488",
@@ -59,7 +59,7 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": false,
+		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -75,7 +75,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 	    
 	    
 		"extraButton1Active": false,
@@ -86,7 +86,7 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "ENTER HERE",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.hungryroot.com/",
 			
 			
