@@ -6,9 +6,9 @@
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
         "bannerAd": "yandex",
-        "InterAd": "max",
+        "InterAd": "yandex",
         "NativeAd": "facebook",
-	"EnableBnr_Ntv":true,
+	"EnableBnr_Ntv":false,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
@@ -38,7 +38,7 @@
         "show_banner_1":true,
         "Url_banner_1":"https://beacons.ai/shoppiing",
         "Image_banner_1":"",
-        "Title_banner_1":"GET FREE 750$ GIFT CARD",
+        "Title_banner_1":"GET FREE GIFT CARD",
       
         "show_banner_2": false,
          "Url_banner_2":"https://",
@@ -75,7 +75,7 @@
 			"ansewrA": "Maybe",
 			"ansewrB": "I don't know"
 		},
-		"birthdayActivity": false,
+		"birthdayActivity": true,
 		"enterActivity": true,
                 "CaptchaActivity":true,
 	    
@@ -83,7 +83,7 @@
 		"extraButton1Active": false,
 		"extraButton1Title": "GET FREE GIFT CARD",
 		"extraButton1Url": "https://giftcardway.com/",
-		"extraButton2Active": true,
+		"extraButton2Active": false,
 		"extraButton2Title": "ZOLLA FREE 100$ CARD",
 		"extraButton2Url": "https://giftcardway.com/",
 		"enterButtonText": "SHOP NOW",
